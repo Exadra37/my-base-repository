@@ -12,6 +12,8 @@ All optional topics not used must maintain their title and have their body repla
 
 When any created issue do not follow this guidelines it will not be considered.
 
+Each issue will have is own Branch that are created as demonstrated [here](docs/how-to/create_branches).
+
 
 ## Bug Fix / Security Fix
 
@@ -24,7 +26,7 @@ Create the issue [here](https://gitlab.com/exadra37/my-base-repository/issues/ne
 
 ## New Feature / Improve Feature / Refracting Code
 
-Starts with the [Creation of a Milestone](https://gitlab.com/exadra37/my-base-repository/issues/new).
+Starts with the [Creation of a Milestone](https://gitlab.com/exadra37/my-base-repository/milestones/new).
 
 Now we should split what we want to do in many tasks as we can by creating an Issue for each task and assign the issue
 to the Milestone.
