@@ -53,7 +53,7 @@ See usage examples [here](docs/how-to/use.md).
 
 ## BRANCHES
 
-Branches are created as demonstrated [here](docs/how-to/create_branches).
+Branches are created as demonstrated [here](docs/how-to/create_branches.md).
 
 This are the type of branches we can see at any moment in the repository:
 
